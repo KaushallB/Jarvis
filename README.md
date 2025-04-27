@@ -21,7 +21,7 @@ This project is currently a **starting model**, and I plan to **enhance it into 
 git clone https://github.com/your-username/jarvis.git
 cd jarvis
 
-###2. Install Required Packages
+### 2. Install Required Packages
 ```bash
 pip install pyttsx3 SpeechRecognition wikipedia pyaudio
 
