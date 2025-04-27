@@ -22,6 +22,7 @@ git clone https://github.com/your-username/jarvis.git
 cd jarvis
 
 ###2. Install Required Packages
+```bash
 pip install pyttsx3 SpeechRecognition wikipedia pyaudio
 
 ### 3. Run It
