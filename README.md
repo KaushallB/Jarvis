@@ -1,6 +1,6 @@
 # Jarvis - Basic Voice Assistant  🎙️🧠
 
-This is the **basic version** of Jarvis, a Python-powered desktop voice assistant that can recognize your speech, fetch information from Wikipedia, and talk back to you!  
+This is the **basic version** of Jarvis, a Python-powered desktop voice assistant that can recognize your speech, fetch information, and talk back to you!  
 This project is currently a **starting model**, and I plan to **enhance it into a fully functional, advanced Jarvis assistant** in the future.
 
 ---
