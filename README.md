@@ -18,7 +18,7 @@ This project is currently a **starting model**, and I plan to **enhance it into 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/jarvis.git
+git clone https://github.com/KaushallB/Jarvis.git
 cd jarvis
 ```
 ### 2. Install Required Packages
